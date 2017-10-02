@@ -1,4 +1,5 @@
 # Cloney Island Airbnb
+[![Build Status](https://semaphoreci.com/api/v1/rongxanh88/cloney_island_airbnb/branches/development/shields_badge.svg)](https://semaphoreci.com/rongxanh88/cloney_island_airbnb)
 
 ![Alt text](https://github.com/rongxanh88/cloney_island_airbnb/blob/development/app/screen_shots/first_homepage_shot.png?raw=true "Cloney Island Airbnb Homepage")
 
@@ -73,4 +74,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Turing School of Software & Design
 
-[![Build Status](https://semaphoreci.com/api/v1/rongxanh88/cloney_island_airbnb/branches/development/shields_badge.svg)](https://semaphoreci.com/rongxanh88/cloney_island_airbnb)
